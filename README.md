@@ -1,4 +1,4 @@
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m @Randika and i'm a software developer.i'm from Srilanka living in kandy and currently working as a freelancer.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Randika and i'm a software developer.i'm from Srilanka living in kandy and currently working as a freelancer.
 - 👀 I’m interested in mobile app development, web development and windows app development.
 
 
