@@ -1,8 +1,17 @@
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m Randika and i'm a software developer.i'm from Srilanka living in kandy and currently working as a freelancer.
-- 👀 I’m interested in mobile app development, web development and windows app development.
+🚀 Full Stack Developer with a Laravel ❤️ | 🌐 Web Architect | 💻 Code Wizard
 
+🔨 Building web applications from the ground up, front-end to back-end, with Laravel at the heart of it all.
 
-<!---
-RandikaMa/RandikaMa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚙️ Tech Stack: { PHP, Laravel, Vue.js, React, Node.js, SQL, and more }.
+
+🛠️ Crafting elegant solutions with Laravel's magic and a touch of creativity.
+
+💡 Solving real-world problems through code, one stack at a time.
+
+💬 Let's chat about Laravel's ecosystem, RESTful APIs, and full stack architecture.
+
+📫 Reach me at:
+   - 📧 Email: wimalawardanar@gmail.com
+   - 🐦 Twitter: @RmRandika
+
+🌟 Laravel artisan by day, coding sorcerer by night. 🌙
